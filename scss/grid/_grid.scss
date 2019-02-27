@@ -1,0 +1,235 @@
+/* ========== Containers ========== */
+table[class="wrapper"] {
+	width: $wrapper-width !important;
+	max-width: $wrapper-width !important;
+}
+table[class="container"] {
+	width: $container-width !important;
+	max-width: $container-width !important;
+}
+/* ========== Offset Grids ========== */
+table[class="gutter-small"] {
+ 	width: 12px !important;
+ 	max-width: 12px !important;
+}
+table[class="gutter-medium"] {
+	width: 24px !important;
+ 	max-width: 24px !important;
+}
+table[class="gutter-large"] {
+	width: 48px !important;
+ 	max-width: 48px !important;
+}
+/* =============== Grid System : For Container In With Offset Condition ============= */
+table[class="container-grid1--with-gutter"] {
+ 	width: $container-grid1--with-offset !important;
+ 	max-width: $container-grid1--with-offset !important;
+}
+table[class="container-grid2--with-gutter"] {
+ 	width: $container-grid2--with-offset !important;
+ 	max-width: $container-grid2--with-offset !important;
+}
+table[class="container-grid3--with-gutter"] {
+ 	width: $container-grid3--with-offset !important;
+ 	max-width: $container-grid3--with-offset !important;
+}
+table[class="container-grid4--with-gutter"] {
+ 	width: $container-grid4--with-offset !important;
+ 	max-width: $container-grid4--with-offset !important;
+}
+table[class="container-grid5--with-gutter"] {
+ 	width: $container-grid5--with-offset !important;
+ 	max-width: $container-grid5--with-offset !important;
+}
+table[class="container-grid6--with-gutter"] {
+ 	width: $container-grid6--with-offset !important;
+ 	max-width: $container-grid6--with-offset !important;
+}
+table[class="container-grid7--with-gutter"] {
+ 	width: $container-grid7--with-offset !important;
+ 	max-width: $container-grid7--with-offset !important;
+}
+table[class="container-grid8--with-gutter"] {
+ 	width: $container-grid8--with-offset !important;
+	max-width: $container-grid8--with-offset !important;
+}
+table[class="container-grid9--with-gutter"] {
+ 	width: $container-grid9--with-offset !important;
+ 	max-width: $container-grid9--with-offset !important;
+}
+table[class="container-grid10--with-gutter"] {
+ 	width: $container-grid10--with-offset !important;
+ 	max-width: $container-grid10--with-offset !important;
+}
+table[class="container-grid11--with-gutter"] {
+ 	width: $container-grid11--with-offset !important;
+ 	max-width: $container-grid11--with-offset !important;
+}
+/* =============== Grid System : For Container In Without Offset Condition ============= */
+table[class="container-grid1--without-gutter"] {
+ 	width: $container-grid1--without-offset !important;
+ 	max-width: $container-grid1--without-offset !important;
+}
+table[class="container-grid2--without-gutter"] {
+ 	width: $container-grid2--without-offset !important;
+ 	max-width: $container-grid2--without-offset !important;
+}
+table[class="container-grid3--without-gutter"] {
+ 	width: $container-grid3--without-offset !important;
+ 	max-width: $container-grid3--without-offset !important;
+}
+table[class="container-grid4--without-gutter"] {
+ 	width: $container-grid4--without-offset !important;
+ 	max-width: $container-grid4--without-offset !important;
+}
+table[class="container-grid5--without-gutter"] {
+ 	width: $container-grid5--without-offset !important;
+ 	max-width: $container-grid5--without-offset !important;
+}
+table[class="container-grid6--without-gutter"] {
+ 	width: $container-grid6--without-offset !important;
+ 	max-width: $container-grid6--without-offset !important;
+}
+table[class="container-grid7--without-gutter"] {
+ 	width: $container-grid7--without-offset !important;
+ 	max-width: $container-grid7--without-offset !important;
+}
+table[class="container-grid8--without-gutter"] {
+ 	width: $container-grid8--without-offset !important;
+	max-width: $container-grid8--without-offset !important;
+}
+table[class="container-grid9--without-gutter"] {
+ 	width: $container-grid9--without-offset !important;
+ 	max-width: $container-grid9--without-offset !important;
+}
+table[class="container-grid10--without-gutter"] {
+ 	width: $container-grid10--without-offset !important;
+ 	max-width: $container-grid10--without-offset !important;
+}
+table[class="container-grid11--without-gutter"] {
+ 	width: $container-grid11--without-offset !important;
+ 	max-width: $container-grid11--without-offset !important;
+}
+/* =============== Grid System : For Wrapper In Without Offset Condition ============= */
+table[class="wrapper-grid1--without-gutter"] {
+ 	width: $wrapper-grid1--without-offset !important;
+ 	max-width: $wrapper-grid1--without-offset !important;
+}
+table[class="wrapper-grid2--without-gutter"] {
+ 	width: $wrapper-grid2--without-offset !important;
+ 	max-width: $wrapper-grid2--without-offset !important;
+}
+table[class="wrapper-grid3--without-gutter"] {
+ 	width: $wrapper-grid3--without-offset !important;
+ 	max-width: $wrapper-grid3--without-offset !important;
+}
+table[class="wrapper-grid4--without-gutter"] {
+ 	width: $wrapper-grid4--without-offset !important;
+ 	max-width: $wrapper-grid4--without-offset !important;
+}
+table[class="wrapper-grid5--without-gutter"] {
+ 	width: $wrapper-grid5--without-offset !important;
+ 	max-width: $wrapper-grid5--without-offset !important;
+}
+table[class="wrapper-grid6--without-gutter"] {
+ 	width: $wrapper-grid6--without-offset !important;
+ 	max-width: $wrapper-grid6--without-offset !important;
+}
+table[class="wrapper-grid7--without-gutter"] {
+ 	width: $wrapper-grid7--without-offset !important;
+ 	max-width: $wrapper-grid7--without-offset !important;
+}
+table[class="wrapper-grid8--without-gutter"] {
+	width: $wrapper-grid8--without-offset !important;
+ 	max-width: $wrapper-grid8--without-offset !important;
+}
+table[class="wrapper-grid9--without-gutter"] {
+ 	width: $wrapper-grid9--without-offset !important;
+ 	max-width: $wrapper-grid9--without-offset !important;
+}
+table[class="wrapper-grid10--without-gutter"] {
+ 	width: $wrapper-grid10--without-offset !important;
+ 	max-width: $wrapper-grid10--without-offset !important;
+}
+table[class="wrapper-grid11--without-gutter"] {
+ 	width: $wrapper-grid11--without-offset !important;
+ 	max-width: $wrapper-grid11--without-offset !important;
+}
+/* =============== Grid System : For Container Full In With Offset Condition ============= */
+table[class="wrapper-grid1--with-offset"] {
+ 	width: $wrapper-grid1--with-offset !important;
+ 	max-width: $wrapper-grid1--with-offset !important;
+}
+table[class="wrapper-grid2--with-offset"] {
+ 	width: $wrapper-grid2--with-offset !important;
+ 	max-width: $wrapper-grid2--with-offset !important;
+}
+table[class="wrapper-grid3--with-offset"] {
+ 	width: $wrapper-grid3--with-offset !important;
+ 	max-width: $wrapper-grid3--with-offset !important;
+}
+table[class="wrapper-grid4--with-offset"] {
+ 	width: $wrapper-grid4--with-offset !important;
+ 	max-width: $wrapper-grid4--with-offset !important;
+}
+table[class="wrapper-grid5--with-offset"] {
+ 	width: $wrapper-grid5--with-offset !important;
+ 	max-width: $wrapper-grid5--with-offset !important;
+}
+table[class="wrapper-grid6--with-offset"] {
+ 	width: $wrapper-grid6--with-offset !important;
+ 	max-width: $wrapper-grid6--with-offset !important;
+}
+table[class="wrapper-grid7--with-offset"] {
+ 	width: $wrapper-grid7--with-offset !important;
+ 	max-width: $wrapper-grid7--with-offset !important;
+}
+table[class="wrapper-grid8--with-offset"] {
+ 	width: $wrapper-grid8--with-offset !important;
+ 	max-width: $wrapper-grid8--with-offset !important;
+}
+table[class="wrapper-grid9--with-offset"] {
+ 	width: $wrapper-grid9--with-offset !important;
+ 	max-width: $wrapper-grid9--with-offset !important;
+}
+table[class="wrapper-grid10--with-offset"] {
+ 	width: $wrapper-grid10--with-offset !important;
+ 	max-width: $wrapper-grid10--with-offset !important;
+}
+table[class="wrapper-grid11--with-offset"] {
+ 	width: $wrapper-grid11--with-offset !important;
+ 	max-width: $wrapper-grid11--with-offset !important;
+}
+/* =============== Typography ============= */
+td[class="text-small"], a[class="text-small"] {
+	font-family: $text-small-font;
+	font-size: $text-small-size;
+	line-height: $text-small-height;
+	font-weight: $text-small-weight;
+	color: $text-small-color;
+	text-transform: $text-small-transform;
+}
+td[class="text-medium"], a[class="text-medium"] {
+	font-family: $text-medium-font;
+	font-size: $text-medium-size;
+	line-height: $text-medium-height;
+	font-weight: $text-medium-weight;
+	color: $text-medium-color;
+	text-transform: $text-medium-transform;
+}
+td[class="text-large"], a[class="text-large"] {
+	font-family: $text-large-font;
+	font-size: $text-large-size;
+	line-height: $text-large-height;
+	font-weight: $text-large-weight;
+	color: $text-large-color;
+	text-transform: $text-large-transform;
+}
+td[class="text-huge"], a[class="text-huge"] {
+	font-family: $text-huge-font;
+	font-size: $text-huge-size;
+	line-height: $text-huge-height;
+	font-weight: $text-huge-weight;
+	color: $text-huge-color;
+	text-transform: $text-huge-transform;
+}

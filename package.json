@@ -1,0 +1,14 @@
+{
+  "name": "mailerstock",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-inline-css": "^1.0.0"
+  },
+  "dependencies": {
+    "grunt-compile-handlebars": "^2.0.2",
+    "juice": "^5.1.0"
+  }
+}

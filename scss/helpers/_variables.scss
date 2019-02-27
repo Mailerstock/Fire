@@ -1,0 +1,89 @@
+$wrapper-width: 720px;
+$container-width: 600px;
+$offset-small-width: 12px;
+$offset-medium-width: 24px;
+$offset-large-width: 48px;
+$offset-small-value: 12;
+$offset-medium-value: 24;
+$offset-large-value: 48;
+$container-value: 600;
+$wrapper-value: 720;
+
+$container-grid1--with-offset: ((($container-value - ($offset-small-value*11))/12)*1)+px;
+$container-grid2--with-offset: ((($container-value - ($offset-small-value*5))/12)*2)+px;
+$container-grid3--with-offset: ((($container-value - ($offset-small-value*3))/12)*3)+px;
+$container-grid4--with-offset: ((($container-value - ($offset-small-value*2))/12)*4)+px;
+$container-grid5--with-offset: ((($container-value - ($offset-medium-value))/12)*5)+px;
+$container-grid6--with-offset: ((($container-value - ($offset-medium-value))/12)*6)+px;
+$container-grid7--with-offset: ((($container-value - ($offset-medium-value))/12)*7)+px;
+$container-grid8--with-offset: ((($container-value - ($offset-medium-value))/12)*8)+px;
+$container-grid9--with-offset: ((($container-value - ($offset-medium-value))/12)*9)+px;
+$container-grid10--with-offset: ((($container-value - ($offset-medium-value))/12)*10)+px;
+$container-grid11--with-offset: ((($container-value - ($offset-medium-value))/12)*11)+px;
+
+$container-grid1--without-offset: (($container-value / 12)*1)+px;
+$container-grid2--without-offset: (($container-value / 12)*2)+px;
+$container-grid3--without-offset: (($container-value / 12)*3)+px;
+$container-grid4--without-offset: (($container-value / 12)*4)+px;
+$container-grid5--without-offset: (($container-value / 12)*5)+px;
+$container-grid6--without-offset: (($container-value / 12)*6)+px;
+$container-grid7--without-offset: (($container-value / 12)*7)+px;
+$container-grid8--without-offset: (($container-value / 12)*8)+px;
+$container-grid9--without-offset: (($container-value / 12)*9)+px;
+$container-grid10--without-offset: (($container-value / 12)*10)+px;
+$container-grid11--without-offset: (($container-value / 12)*11)+px;
+
+$wrapper-grid1--with-offset: ((($wrapper-value - ($offset-small-value*11))/12)*1)+px;
+$wrapper-grid2--with-offset: ((($wrapper-value - ($offset-small-value*5))/12)*2)+px;
+$wrapper-grid3--with-offset: ((($wrapper-value - ($offset-small-value*3))/12)*3)+px;
+$wrapper-grid4--with-offset: ((($wrapper-value - ($offset-small-value*2))/12)*4)+px;
+$wrapper-grid5--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*5)+px;
+$wrapper-grid6--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*6)+px;
+$wrapper-grid7--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*7)+px;
+$wrapper-grid8--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*8)+px;
+$wrapper-grid9--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*9)+px;
+$wrapper-grid10--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*10)+px;
+$wrapper-grid11--with-offset: ((($wrapper-value - ($offset-medium-value))/12)*11)+px;
+
+$wrapper-grid1--without-offset: (($wrapper-value / 12)*1)+px;
+$wrapper-grid2--without-offset: (($wrapper-value / 12)*2)+px;
+$wrapper-grid3--without-offset: (($wrapper-value / 12)*3)+px;
+$wrapper-grid4--without-offset: (($wrapper-value / 12)*4)+px;
+$wrapper-grid5--without-offset: (($wrapper-value / 12)*5)+px;
+$wrapper-grid6--without-offset: (($wrapper-value / 12)*6)+px;
+$wrapper-grid7--without-offset: (($wrapper-value / 12)*7)+px;
+$wrapper-grid8--without-offset: (($wrapper-value / 12)*8)+px;
+$wrapper-grid9--without-offset: (($wrapper-value / 12)*9)+px;
+$wrapper-grid10--without-offset: (($wrapper-value / 12)*10)+px;
+$wrapper-grid11--without-offset: (($wrapper-value / 12)*11)+px;
+
+$base-font-family: 'Roboto', Arial, Helvetica, sans-serif;
+$secondary-font-family: 'Open Sans', Trebuchet MS, Helvetica, sans-serif;
+
+$text-small-font: $base-font-family;
+$text-small-size: 14px;
+$text-small-height: $text-small-size + 9px;
+$text-small-weight: 400;
+$text-small-color: #494949;
+$text-small-transform: none;
+
+$text-medium-font: $secondary-font-family;
+$text-medium-size: 18px;
+$text-medium-height: $text-medium-size + 9px;
+$text-medium-weight: 400;
+$text-medium-color: #494949;
+$text-medium-transform: none;
+
+$text-large-font: $secondary-font-family;
+$text-large-size: 32px;
+$text-large-height: $text-large-size + 11px;
+$text-large-weight: 400;
+$text-large-color: #111111;
+$text-large-transform: none;
+
+$text-huge-font: $secondary-font-family;
+$text-huge-size: 40px;
+$text-huge-height: $text-huge-size + 13px;
+$text-huge-weight: 400;
+$text-huge-color: #111111;
+$text-huge-transform: none;

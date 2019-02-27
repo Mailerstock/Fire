@@ -1,0 +1,236 @@
+/* ========== Containers ========== */
+table[class="wrapper"] {
+  width: 720px !important;
+  max-width: 720px !important; }
+
+table[class="container"] {
+  width: 600px !important;
+  max-width: 600px !important; }
+
+/* ========== Offset Grids ========== */
+table[class="gutter-small"] {
+  width: 12px !important;
+  max-width: 12px !important; }
+
+table[class="gutter-medium"] {
+  width: 24px !important;
+  max-width: 24px !important; }
+
+table[class="gutter-large"] {
+  width: 48px !important;
+  max-width: 48px !important; }
+
+/* =============== Grid System : For Container In With Offset Condition ============= */
+table[class="container-grid1--with-gutter"] {
+  width: 39px !important;
+  max-width: 39px !important; }
+
+table[class="container-grid2--with-gutter"] {
+  width: 90px !important;
+  max-width: 90px !important; }
+
+table[class="container-grid3--with-gutter"] {
+  width: 141px !important;
+  max-width: 141px !important; }
+
+table[class="container-grid4--with-gutter"] {
+  width: 192px !important;
+  max-width: 192px !important; }
+
+table[class="container-grid5--with-gutter"] {
+  width: 240px !important;
+  max-width: 240px !important; }
+
+table[class="container-grid6--with-gutter"] {
+  width: 288px !important;
+  max-width: 288px !important; }
+
+table[class="container-grid7--with-gutter"] {
+  width: 336px !important;
+  max-width: 336px !important; }
+
+table[class="container-grid8--with-gutter"] {
+  width: 384px !important;
+  max-width: 384px !important; }
+
+table[class="container-grid9--with-gutter"] {
+  width: 432px !important;
+  max-width: 432px !important; }
+
+table[class="container-grid10--with-gutter"] {
+  width: 480px !important;
+  max-width: 480px !important; }
+
+table[class="container-grid11--with-gutter"] {
+  width: 528px !important;
+  max-width: 528px !important; }
+
+/* =============== Grid System : For Container In Without Offset Condition ============= */
+table[class="container-grid1--without-gutter"] {
+  width: 50px !important;
+  max-width: 50px !important; }
+
+table[class="container-grid2--without-gutter"] {
+  width: 100px !important;
+  max-width: 100px !important; }
+
+table[class="container-grid3--without-gutter"] {
+  width: 150px !important;
+  max-width: 150px !important; }
+
+table[class="container-grid4--without-gutter"] {
+  width: 200px !important;
+  max-width: 200px !important; }
+
+table[class="container-grid5--without-gutter"] {
+  width: 250px !important;
+  max-width: 250px !important; }
+
+table[class="container-grid6--without-gutter"] {
+  width: 300px !important;
+  max-width: 300px !important; }
+
+table[class="container-grid7--without-gutter"] {
+  width: 350px !important;
+  max-width: 350px !important; }
+
+table[class="container-grid8--without-gutter"] {
+  width: 400px !important;
+  max-width: 400px !important; }
+
+table[class="container-grid9--without-gutter"] {
+  width: 450px !important;
+  max-width: 450px !important; }
+
+table[class="container-grid10--without-gutter"] {
+  width: 500px !important;
+  max-width: 500px !important; }
+
+table[class="container-grid11--without-gutter"] {
+  width: 550px !important;
+  max-width: 550px !important; }
+
+/* =============== Grid System : For Wrapper In Without Offset Condition ============= */
+table[class="wrapper-grid1--without-gutter"] {
+  width: 60px !important;
+  max-width: 60px !important; }
+
+table[class="wrapper-grid2--without-gutter"] {
+  width: 120px !important;
+  max-width: 120px !important; }
+
+table[class="wrapper-grid3--without-gutter"] {
+  width: 180px !important;
+  max-width: 180px !important; }
+
+table[class="wrapper-grid4--without-gutter"] {
+  width: 240px !important;
+  max-width: 240px !important; }
+
+table[class="wrapper-grid5--without-gutter"] {
+  width: 300px !important;
+  max-width: 300px !important; }
+
+table[class="wrapper-grid6--without-gutter"] {
+  width: 360px !important;
+  max-width: 360px !important; }
+
+table[class="wrapper-grid7--without-gutter"] {
+  width: 420px !important;
+  max-width: 420px !important; }
+
+table[class="wrapper-grid8--without-gutter"] {
+  width: 480px !important;
+  max-width: 480px !important; }
+
+table[class="wrapper-grid9--without-gutter"] {
+  width: 540px !important;
+  max-width: 540px !important; }
+
+table[class="wrapper-grid10--without-gutter"] {
+  width: 600px !important;
+  max-width: 600px !important; }
+
+table[class="wrapper-grid11--without-gutter"] {
+  width: 660px !important;
+  max-width: 660px !important; }
+
+/* =============== Grid System : For Container Full In With Offset Condition ============= */
+table[class="wrapper-grid1--with-offset"] {
+  width: 49px !important;
+  max-width: 49px !important; }
+
+table[class="wrapper-grid2--with-offset"] {
+  width: 110px !important;
+  max-width: 110px !important; }
+
+table[class="wrapper-grid3--with-offset"] {
+  width: 171px !important;
+  max-width: 171px !important; }
+
+table[class="wrapper-grid4--with-offset"] {
+  width: 232px !important;
+  max-width: 232px !important; }
+
+table[class="wrapper-grid5--with-offset"] {
+  width: 290px !important;
+  max-width: 290px !important; }
+
+table[class="wrapper-grid6--with-offset"] {
+  width: 348px !important;
+  max-width: 348px !important; }
+
+table[class="wrapper-grid7--with-offset"] {
+  width: 406px !important;
+  max-width: 406px !important; }
+
+table[class="wrapper-grid8--with-offset"] {
+  width: 464px !important;
+  max-width: 464px !important; }
+
+table[class="wrapper-grid9--with-offset"] {
+  width: 522px !important;
+  max-width: 522px !important; }
+
+table[class="wrapper-grid10--with-offset"] {
+  width: 580px !important;
+  max-width: 580px !important; }
+
+table[class="wrapper-grid11--with-offset"] {
+  width: 638px !important;
+  max-width: 638px !important; }
+
+/* =============== Typography ============= */
+td[class="text-small"], a[class="text-small"] {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 23px;
+  font-weight: 400;
+  color: #494949;
+  text-transform: none; }
+
+td[class="text-medium"], a[class="text-medium"] {
+  font-family: "Open Sans", Trebuchet MS, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #494949;
+  text-transform: none; }
+
+td[class="text-large"], a[class="text-large"] {
+  font-family: "Open Sans", Trebuchet MS, Helvetica, sans-serif;
+  font-size: 32px;
+  line-height: 43px;
+  font-weight: 400;
+  color: #111111;
+  text-transform: none; }
+
+td[class="text-huge"], a[class="text-huge"] {
+  font-family: "Open Sans", Trebuchet MS, Helvetica, sans-serif;
+  font-size: 40px;
+  line-height: 53px;
+  font-weight: 400;
+  color: #111111;
+  text-transform: none; }
+
+/*# sourceMappingURL=style.css.map */
