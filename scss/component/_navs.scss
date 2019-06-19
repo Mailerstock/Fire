@@ -1,0 +1,23 @@
+td[class="nav-item"] {
+	padding: 15px 0;
+}
+a[class="nav-link"] {
+	font-family: $secondary-font-family;
+	font-size: $text-small-size;
+	line-height: $text-small-height;
+	font-weight: 500;
+	color: $text-small-color;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;
+}
+a[class="nav-active"] {
+	font-family: $secondary-font-family;
+	font-size: $text-small-size;
+	line-height: $text-small-height;
+	font-weight: 500;
+	color: $color-active;
+	text-transform: uppercase;
+	text-align: center;
+	text-decoration: none;
+}

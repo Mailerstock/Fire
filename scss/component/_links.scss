@@ -1,0 +1,22 @@
+.link {
+	color: $primary-color;
+	text-decoration: none;
+}
+.link-underlined {
+	color: $brand-color;
+	text-decoration: underline;
+}
+.link-uppercase {
+	color: $link-color;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+.link-italic {
+	color: $link-color;
+	text-decoration: underline;
+	font-style: italic;
+}
+.link-active {
+	color: $color-active;
+	text-decoration: underline;
+}

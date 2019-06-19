@@ -21,9 +21,12 @@ module.exports = function (grunt) {
 		inlinecss: {
 	        main: {
 	            options: {
-	            },
+                    webResources: {
+                        images: false,
+                    }
+                },
 	            files: {
-	                'files/out.html': 'files/in.html'
+	                'templates/output/gmail_fix.html': 'templates/input/gmail_fix.html'
 	            }
 	        }
 	    }
@@ -32,7 +35,9 @@ module.exports = function (grunt) {
 	// load npm tasks
 	grunt.loadNpmTasks('grunt-contrib-sass');
 	grunt.loadNpmTasks('grunt-contrib-cssmin');
+	grunt.loadNpmTasks('grunt-contrib-imagemin');
 	grunt.loadNpmTasks('grunt-inline-css');
+	grunt.loadNpmTasks('grunt-browser-sync');
 
 	// register task
 	grunt.registerTask('default', ['sass','cssmin','inlinecss']);

@@ -1,0 +1,95 @@
+
+@mixin text-small {
+	font-family: $text-small-font;
+	font-size: $text-small-size;
+	line-height: $text-small-height;
+	font-weight: $text-small-weight;
+	color: $text-small-color;
+	text-transform: $text-small-transform;
+	margin: 0;
+}
+
+@mixin text-medium {
+	font-family: $text-medium-font;
+	font-size: $text-medium-size;
+	line-height: $text-medium-height;
+	font-weight: $text-medium-weight;
+	color: $text-medium-color;
+	text-transform: $text-medium-transform;
+	margin: 0;
+}
+
+@mixin text-large {
+	font-family: $text-large-font;
+	font-size: $text-large-size;
+	line-height: $text-large-height;
+	font-weight: $text-large-weight;
+	color: $text-large-color;
+	text-transform: $text-large-transform;
+	margin: 0;
+}
+
+@mixin text-huge {
+	font-family: $text-huge-font;
+	font-size: $text-huge-size;
+	line-height: $text-huge-height;
+	font-weight: $text-huge-weight;
+	color: $text-huge-color;
+	text-transform: $text-huge-transform;
+	margin: 0;
+}
+
+@mixin heading-xsmall {
+	font-family: $heading-small-font;
+	font-size: $heading-small-size;
+	line-height: $heading-small-height;
+	font-weight: $heading-small-weight;
+	color: $heading-small-color;
+	text-transform: $heading-small-transform;
+	margin: 0;
+}
+@mixin heading-small {
+	font-family: $heading-small-font;
+	font-size: $heading-small-size;
+	line-height: $heading-small-height;
+	font-weight: $heading-small-weight;
+	color: $heading-small-color;
+	text-transform: $heading-small-transform;
+	margin: 0;
+}
+@mixin heading-medium {
+	font-family: $heading-medium-font;
+	font-size: $heading-medium-size;
+	line-height: $heading-medium-height;
+	font-weight: $heading-medium-weight;
+	color: $heading-medium-color;
+	text-transform: $heading-medium-transform;
+	margin: 0;
+}
+@mixin heading-large {
+	font-family: $heading-large-font;
+	font-size: $heading-large-size;
+	line-height: $heading-large-height;
+	font-weight: $heading-large-weight;
+	color: $heading-large-color;
+	text-transform: $heading-large-transform;
+	margin: 0;
+}
+@mixin heading-xlarge {
+	font-family: $heading-xlarge-font;
+	font-size: $heading-xlarge-size;
+	line-height: $heading-xlarge-height;
+	font-weight: $heading-xlarge-weight;
+	color: $heading-xlarge-color;
+	text-transform: $heading-xlarge-transform;
+	margin: 0;
+}
+@mixin heading-huge {
+	font-family: $heading-huge-font;
+	font-size: $heading-huge-size;
+	line-height: $heading-huge-height;
+	font-weight: $heading-huge-weight;
+	color: $heading-huge-color;
+	text-transform: $heading-huge-transform;
+	margin: 0;
+}

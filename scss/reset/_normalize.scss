@@ -1,0 +1,48 @@
+body {
+   font-family: 'Roboto', Arial, Helvetica, sans-serif;
+   background: #ffffff;
+   width: 100% !important;
+   min-width: 100%;
+   -webkit-text-size-adjust: 100%;
+   --ms-text-size-adjust: 100%;
+   margin: 0;
+   padding: 0;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box; 
+}
+/* Campaign Monitor Editor */
+p {
+   display: block;
+   -webkit-margin-before: 0px !important;
+   -webkit-margin-after: 0px !important;
+   margin: 0px !important;
+   padding: 0px !important;
+}
+.ExternalClass {
+   width: 100%; }
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+   line-height: 100%; }
+.ReadMsgBody {
+   width: 100%;
+   background-color: #ffffff; }
+#outlook a {
+   padding: 0; }
+table {
+   border-collapse: collapse;
+   mso-table-lspace: 0pt;
+   mso-table-rspace: 0pt; }
+table td {
+   border-collapse: collapse; }
+img {
+   -ms-interpolation-mode: bicubic;
+   outline: none;
+   text-decoration: none;
+   border: none; }
+a img {
+   border: none; }

@@ -1,0 +1,73 @@
+/* =============== Typography ============= */
+.heading-xsmall {
+	@include heading-xsmall;
+}
+.heading-small {
+	@include heading-small;
+}
+.heading-medium {
+	@include heading-medium;
+}
+.heading-large {
+	@include heading-large;
+}
+.heading-xlarge {
+	@include heading-xlarge;
+}
+.heading-huge {
+	@include heading-huge;
+}
+.text-small {
+	@include text-small;
+}
+.text-medium {
+	@include text-medium;
+}
+.text-large {
+	@include text-large;
+}
+.text-huge {
+	@include text-huge;
+}
+.primary-color {
+	color: $primary-color;
+}
+.white {
+	color: $white;
+}
+.brand-color {
+	color: $brand-color;
+}
+.black {
+	color: $black;	
+}
+.light-grey {
+	color: $light-grey;
+}
+.medium-gray {
+	color: $medium-grey;
+}
+.dark-grey {
+	color: $dark-grey;
+}
+.active {
+	color: $color-active;	
+}
+.link-color {
+	color: $link-color;
+}
+.bg-grey {
+	background-color: $background-grey;
+}
+.bg-white {
+	background-color: $background-white;
+}
+.bg-dark {
+	background-color: $background-dark;
+}
+.bg-primary {
+	background-color: $brand-color;
+}
+.font-italic {
+	font-style: italic;
+}

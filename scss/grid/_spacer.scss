@@ -1,0 +1,41 @@
+/* ========== Spacer ========== */
+table[class="spacer-small"] {
+ 	width: $spacer-width !important;
+ 	max-width: $spacer-width !important;
+}
+table[class="spacer-medium"] {
+	width: $spacer-width !important;
+ 	max-width: $spacer-width !important;
+}
+table[class="spacer-large"] {
+	width: $spacer-width !important;
+ 	max-width: $spacer-width !important;
+}
+table[class="spacer-xlarge"] {
+	width: $spacer-width !important;
+ 	max-width: $spacer-width !important;
+}
+table[class="spacer-huge"] {
+	width: $spacer-width !important;
+ 	max-width: $spacer-width !important;
+}
+td[class="spacer-small"] {
+ 	height: $spacer-small-height !important;
+ 	line-height: $spacer-small-height !important;
+}
+td[class="spacer-medium"] {
+	height: $spacer-medium-height !important;
+ 	line-height: $spacer-medium-height !important;
+}
+td[class="spacer-large"] {
+	height: $spacer-large-height !important;
+ 	line-height: $spacer-large-height !important;
+}
+td[class="spacer-xlarge"] {
+	height: $spacer-xlarge-height !important;
+ 	line-height: $spacer-xlarge-height !important;
+}
+td[class="spacer-huge"] {
+	height: $spacer-huge-height !important;
+ 	line-height: $spacer-huge-height !important;
+}
