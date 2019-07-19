@@ -4,9 +4,9 @@
 	</a>
 </p>
 
-<h1>MailBox</h1>
-<p>A Responsive, Lightweight and Modular Solution to Build Hybrid Email Templates</p>
-<p><a href="https://www.mailerstock.com/email-framework/docs"><strong>Explore MailBox docs »</strong></a></p>
+<h1 align="center">MailBox</h1>
+<p align="center">A Responsive, Lightweight and Modular Solution to Build Hybrid Email Templates</p>
+<p align="center"><a href="https://www.mailerstock.com/email-framework/docs"><strong>Explore MailBox docs »</strong></a></p>
 <p align="center">
 	<a href="https://github.com/Mailerstock/mailbox/issues/new">Report bug</a>&nbsp;.&nbsp;
 	<a href="https://github.com/Mailerstock/mailbox/issues/new">Request feature</a>&nbsp;.&nbsp;
@@ -19,10 +19,6 @@
 - [What's included](#whats-included)
 - [Documentation](#documentation)
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 ## Getting Started
@@ -91,4 +87,8 @@ mailbox/
 
 ## Bugs and feature requests
 
-<p>If you found a bug or would like to suggest a feature, please</p>
+<p>If you found a bug or would like to suggest a feature, please <a href="https://github.com/Mailerstock/mailbox/issues">open an issue.</a></p>
+
+## Copyright and license
+
+This project is licensed under the MIT License - see the <a href="https://github.com/Mailerstock/mailbox/blob/master/LICENSE">License </a> file for details
