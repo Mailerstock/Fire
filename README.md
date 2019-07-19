@@ -84,9 +84,6 @@ mailbox/
 
 <p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>.</p>
 
-<p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>.</p>
-
-
 ## Bugs and feature requests
 
 <p>If you found a bug or would like to suggest a feature, please <a href="https://github.com/Mailerstock/mailbox/issues">open an issue.</a></p>
