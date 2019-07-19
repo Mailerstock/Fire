@@ -590,7 +590,7 @@ table.separator-medium {
 td.separator-medium {
   height: 5px !important;
   line-height: 5px !important;
-  background-color: #ffffff !important; }
+  background-color: #dddddd !important; }
 
 table.separator-large {
   width: 100% !important;
@@ -599,7 +599,7 @@ table.separator-large {
 td.separator-large {
   height: 7px !important;
   line-height: 7px !important;
-  background-color: #ffffff !important; }
+  background-color: #dddddd !important; }
 
 /* ============ Alignments ================ */
 .text-left {
