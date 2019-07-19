@@ -39,7 +39,7 @@
 	color: $brand-color;
 }
 .black {
-	color: $black;	
+	color: $black;
 }
 .light-grey {
 	color: $light-grey;
@@ -56,6 +56,33 @@
 .link-color {
 	color: $link-color;
 }
+.letter-spacing {
+	letter-spacing: 42px;
+}
+.font-thin {
+	font-weight: 200;
+}
+.font-light {
+	font-weight: 300;
+}
+.font-regular {
+	font-weight: 400;
+}
+.font-medium {
+	font-weight: 500;
+}
+.font-semibold {
+	font-weight: 600;
+}
+.font-bold {
+	font-weight: 700;
+}
+.font-xbold {
+	font-weight: 800;
+}
+.font-black {
+	font-weight: 900;
+}
 .bg-grey {
 	background-color: $background-grey;
 }
@@ -70,4 +97,13 @@
 }
 .font-italic {
 	font-style: italic;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.lowercase {
+	text-transform: lowercase;
+}
+.capitalize {
+	text-transform: capitalize;
 }

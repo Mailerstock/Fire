@@ -18,11 +18,11 @@ $spacer-large-height: 60px;
 $spacer-xlarge-height: 75px;
 $spacer-huge-height: 135px;
 
-$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Arial, sans-serif;
-$secondary-font-family: 'Montserrat', Trebuchet MS, Helvetica, sans-serif;
+$base-font-family: 'Roboto', Arial, Helvetica, sans-serif;
+$secondary-font-family: 'Roboto', Arial, Helvetica, sans-serif;
 
 $text-small-font: $base-font-family;
-$text-small-size: 14px;
+$text-small-size: 15px;
 $text-small-height: $text-small-size + 9px;
 $text-small-weight: 400;
 $text-small-color: #494949;
@@ -71,22 +71,22 @@ $heading-medium-color: #111111;
 $heading-medium-transform: none;
 
 $heading-large-font: $secondary-font-family;
-$heading-large-size: 32px;
+$heading-large-size: 28px;
 $heading-large-height: $heading-large-size + 9px;
 $heading-large-weight: 600;
 $heading-large-color: #111111;
 $heading-large-transform: none;
 
 $heading-xlarge-font: $secondary-font-family;
-$heading-xlarge-size: 42px;
-$heading-xlarge-height: $heading-xlarge-size + 9px;
+$heading-xlarge-size: 48px;
+$heading-xlarge-height: $heading-xlarge-size + 11px;
 $heading-xlarge-weight: 600;
 $heading-xlarge-color: #111111;
 $heading-xlarge-transform: none;
 
 $heading-huge-font: $secondary-font-family;
-$heading-huge-size: 56px;
-$heading-huge-height: $heading-huge-size + 9px;
+$heading-huge-size: 75px;
+$heading-huge-height: $heading-huge-size + 11px;
 $heading-huge-weight: 600;
 $heading-huge-color: #111111;
 $heading-huge-transform: none;

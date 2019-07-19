@@ -26,7 +26,7 @@ module.exports = function (grunt) {
                     }
                 },
 	            files: {
-	                'templates/output/gmail_fix.html': 'templates/input/gmail_fix.html'
+	                'templates/output/icon-button.html': 'templates/input/icon-button.html'
 	            }
 	        }
 	    }

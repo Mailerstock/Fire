@@ -23,7 +23,7 @@
 		width: 100% !important;
         max-width: 100% !important;
 	}
-	table.container-grid1--without-gutter, table.container-grid2--without-gutter, table.container-grid3--without-gutter, table.container-grid4--without-gutter, table.container-grid5--without-gutter, table.container-grid6--without-gutter, table.container-grid7--without-gutter, table.container-grid8--without-gutter, table[clacontainer-grid9--without-gutter"], table[class="container-grid10--without-gutter"], table[class="container-grid11--without-gutter"] {
+	table.container-grid1--without-gutter, table.container-grid2--without-gutter, table.container-grid3--without-gutter, table.container-grid4--without-gutter, table.container-grid5--without-gutter, table.container-grid6--without-gutter, table.container-grid7--without-gutter, table.container-grid8--without-gutter, table.container-grid9--without-gutter, table.container-grid10--without-gutter, table.container-grid11--without-gutter {
 		width: 100% !important;
         max-width: 100% !important;
 	}
@@ -67,5 +67,25 @@
 	}
 	td.gmail_fix {
 	 	display: none !important;
+	}
+	table.padding-0--small, td.padding-0--small, p.padding-0--small, strong.padding-0--small, h1.padding-0--small, h2.padding-0--small, h3.padding-0--small, h4.padding-0--small, h5.padding-0--small, h6.padding-0--small {
+		padding: 0px !important;
+	}
+	td.padding-30--small {
+		padding: 30px 0 !important;
+	}
+	td.padding-15--small {
+		padding: 0 15px !important;
+	}
+	table.full {
+		width: 100% !important;
+		max-width: 100% !important;
+	}
+	h1.letter-spacing {
+		letter-spacing: 11px !important;
+	}
+	h1.heading-xlarge--small {
+		font-size: 36px !important;
+		line-height: 43px !important;
 	}
 }
