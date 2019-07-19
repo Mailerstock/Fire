@@ -82,7 +82,11 @@ mailbox/
 
 ## Documentation
 
+<<<<<<< HEAD
 <p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>./p>
+=======
+<p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>.</p>
+>>>>>>> 9b91b8a2c310285752d4fdcd56878816ea9fbd06
 
 
 ## Bugs and feature requests
