@@ -82,7 +82,7 @@ mailbox/
 
 ## Documentation
 
-<p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>./p>
+<p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>.</p>
 =======
 <p>Framework documentation is available at <a href="https://www.mailerstock.com/email-framework/docs/introduction/">here</a>.</p>
 
