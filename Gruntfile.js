@@ -26,7 +26,7 @@ module.exports = function (grunt) {
                     }
                 },
 	            files: {
-	                'templates/output/icon-button.html': 'templates/input/icon-button.html'
+	                'templates/output/right-aligned-nav.html': 'templates/input/right-aligned-nav.html'
 	            }
 	        }
 	    }
