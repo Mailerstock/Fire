@@ -26,7 +26,7 @@ module.exports = function (grunt) {
                     }
                 },
 	            files: {
-	                'templates/output/spacer-huge.html': 'templates/input/spacer-huge.html'
+	                'templates/output/index.html': 'templates/input/index.html'
 	            }
 	        }
 	    }
