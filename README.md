@@ -73,6 +73,26 @@ mailbox/
         ├── utilities/_display.scss
         ├── utilities/_display.scss
         ├── _style.scss
+    └── component
+        ├── buttons/button-filled.html
+        ├── buttons/button-outlined.html
+        ├── buttons/icon-button.html
+        ├── buttons/button-rounded.html
+        ├── navigations/center-aligned-nav.html
+        ├── navigations/left-aligned-nav.html
+        ├── navigations/right-aligned-nav.html
+        ├── separators/separator-medium.html
+        ├── separators/separator-small.html
+        ├── separators/separator-large.html
+        ├── spacer/spacer-small.html
+        ├── spacer/spacer-medium.html
+        ├── spacer/spacer-large.html
+        ├── spacer/spacer-xlarge.html
+        ├── spacer/spacer-huge.html
+    └── layout
+        ├── boilerplate.html
+    └── grid
+        ├── grid.html
     └── package.json
     └── Gruntfile.js
     └── templates
